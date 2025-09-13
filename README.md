@@ -29,13 +29,16 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 
 ## 📷 Prints do Dashboard  
 ### Otimização de Transporte  
-![Dashboard Otimização](/imagens/dash_cervejaria.jpg)  
+## Prints do Dashboard
 
-### Custos e Prazo de Entrega  
-![Dashboard Custos](./imagens/dash_cervejaria_1.jpg)  
+### Otimização de Transporte
+![Dashboard Transporte](imagens/dash_cervejaria.jpg)
 
-### Análise de Ocupação  
-![Dashboard Ocupação](./imagens/dash_cervejaria_3.jpg)  
+### Custos e Prazo de Entrega
+![Dashboard Custos](imagens/dash_cervejaria_1.jpg)
+
+### Análise de Ocupação
+![Dashboard Ocupação](imagens/dash_cervejaria_3.jpg)
 
 ## 📂 Arquivo Power BI  
 O arquivo completo do projeto está disponível neste repositório:  

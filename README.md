@@ -25,11 +25,11 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Power BI** para modelagem e visualização dos dados.  
-- **Excel/CSV** (ou outra fonte, caso queira detalhar) como base de dados.  
+- **Pithon**  para limpeza, modelagem e analises de dados.  
 
 ## 📷 Prints do Dashboard  
 ### Otimização de Transporte  
-![Dashboard Otimização](./imagens/dash_cervejaria.jpg)  
+![Dashboard Otimização](/imagens/dash_cervejaria.jpg)  
 
 ### Custos e Prazo de Entrega  
 ![Dashboard Custos](./imagens/dash_cervejaria_1.jpg)  

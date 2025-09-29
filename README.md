@@ -32,13 +32,13 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 ## Prints do Dashboard
 
 ### Otimização de Transporte
-![Dashboard Transporte](imagens/dash_cervejaria.jpg)
+![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%203.jpg)
 
 ### Custos e Prazo de Entrega
-![Dashboard Custos](imagens/dash_cervejaria_1.jpg)
+![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%201.jpg)
 
 ### Análise de Ocupação
-![Dashboard Ocupação](imagens/dash_cervejaria_3.jpg)
+![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria.jpg)
 
 ## 📂 Arquivo Power BI  
 O arquivo completo do projeto está disponível neste repositório:  

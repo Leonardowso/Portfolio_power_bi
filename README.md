@@ -40,6 +40,14 @@ O painel consolida informações de custos de frete, volumes transportados, praz
 ### Análise de Ocupação
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria.jpg)
 
+## 💻 Código em Python  
+O tratamento de dados foi realizado em Python. Você pode acessá-lo de duas formas:  
+
+- [📓 Notebook no Google Colab](https://colab.research.google.com/drive/1ZkoDJb5NU3GrjpKLk0dVDyM30KahotHu?usp=sharing)  
+ou  
+- [📜 Script neste repositório](./codigo/tratamento_dados.py)   
+
+---
 ## 📂 Arquivo Power BI  
 O arquivo completo do projeto está disponível neste repositório:  
 

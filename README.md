@@ -45,7 +45,7 @@ O tratamento de dados foi realizado em Python. Você pode acessá-lo de duas for
 
 - [📓 Notebook no Google Colab](https://colab.research.google.com/drive/1ZkoDJb5NU3GrjpKLk0dVDyM30KahotHu?usp=sharing)  
 ou  
-- [📜 Script neste repositório](./codigo/tratamento_dados.py)   
+- [📜 Script neste repositório](https://github.com/Leonardowso/Portfolio_power_bi/blob/548f458979719bc1d74f42dce979fbc71f964c13/MODELO_ANALISE_CARGA_API_3_2025.ipynb)   
 
 ---
 ## 📂 Arquivo Power BI  

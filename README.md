@@ -57,3 +57,8 @@ O arquivo completo do projeto está disponível neste repositório:
 1. Baixe o arquivo `.pbix` disponível neste repositório.  
 2. Abra-o no **Power BI Desktop**.  
 3. Explore os relatórios interativos utilizando os filtros disponíveis.  
+
+---
+
+Este projeto faz parte da grade de graduação da FATEC
+[link para o GITHUB](https://github.com/raffsant/Projeto-API-3-semestre.git) 
